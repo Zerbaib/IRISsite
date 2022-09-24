@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: yellow;
+}
+
+body {
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 13px;
+}
