@@ -35,7 +35,7 @@ footer {
     bottom: 0;
     width: 100%;
     display: inline-block;
-    vertical-align: top;
+    vertical-align: bottom;
     font-size: 13px;
 }
 
@@ -60,6 +60,7 @@ footer {
     background-color: #CCC;
     margin-left: auto;
     margin-right: auto;
+    display: inline-block;
 }
 .box2text {
     padding-left: 25px;
