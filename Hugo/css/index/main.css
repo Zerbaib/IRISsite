@@ -33,34 +33,3 @@ footer {
     vertical-align: bottom;
     font-size: 13px;
 }
-
-h1 {
-    color: yellow;
-    text-align: center;
-}
-
-.btn {
-    font-size: 15px;
-    width: 9.4%;
-    border: 8px groove CornflowerBlue;
-    background-color: lightcyan;
-}
-
-.box {
-    width: 25%;
-    border: 10px groove green;
-    background-color: #CCC;
-    margin-left: auto;
-    margin-right: auto;
-    display: inline-block;
-}
-
-.boxtext {
-    padding-left: 25px;
-    text-align: left;
-}
-
-.img1 {
-    width: 40%;
-    text-align: center;
-}

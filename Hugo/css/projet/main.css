@@ -33,23 +33,3 @@ footer {
     vertical-align: bottom;
     font-size: 13px;
 }
-
-h1 {
-    color: yellow;
-    text-align: center;
-}
-
-.box {
-    width: 80%;
-    border: 10px groove red;
-    background-color: #CCC;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.btn {
-    font-size: 15px;
-    width: 9.4%;
-    border: 8px groove CornflowerBlue;
-    background-color: lightcyan;
-}

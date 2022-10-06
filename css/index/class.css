@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.article {
+    border: 3px solid black;
+    background-color: #CCC;
+    margin-left: 35%;
+    margin-right: 35%;
+}
