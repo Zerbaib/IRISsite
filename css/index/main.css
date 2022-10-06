@@ -4,11 +4,6 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-
-h1 {
-    color: yellow;
-}
-
 body {
     background-color: gray;
     color: black;
