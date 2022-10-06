@@ -19,7 +19,7 @@ body {
 nav {
     text-align: left;
     width: 100%;
-        position: absolute;
+    position: absolute;
     padding-left: 10px;
 }
 
@@ -46,10 +46,6 @@ h1 {
     margin-left: 160px;
     margin-right: auto;
 }
-
-/*.nav {
-    margin-right: 500px;
-}*/
 
 .btn {
     font-size: 15px;
