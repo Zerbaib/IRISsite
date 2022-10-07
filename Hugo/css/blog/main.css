@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    background-color: gray;
+    color: black;
+    text-align: center;
+}
+
+nav {
+    text-align: left;
+    width: 100%;
+    position: absolute;
+    padding-left: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    position: initial;
+    bottom: 0;
+    width: 100%;
+    display: inline-block;
+    vertical-align: bottom;
+    font-size: 13px;
+}
