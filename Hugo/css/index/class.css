@@ -5,6 +5,29 @@
     font-family: sans-serif;
 }
 
+.page {
+
+}
+
+.head {
+
+}
+
+.nav {
+
+}
+
+.btn {
+    font-size: 15px;
+    width: 9.4%;
+    border: 8px groove CornflowerBlue;
+    background-color: lightcyan;
+}
+
+.main {
+
+}
+
 .box {
     width: 80%;
     border: 10px groove red;
@@ -13,9 +36,10 @@
     margin-right: auto;
 }
 
-.btn {
-    font-size: 15px;
-    width: 9.4%;
-    border: 8px groove CornflowerBlue;
-    background-color: lightcyan;
+.article {
+
+}
+
+.foot {
+
 }
