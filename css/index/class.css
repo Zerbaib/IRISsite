@@ -11,4 +11,11 @@
     margin-left: 35%;
     margin-right: 35%;
     margin-top: 5px;
+
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+
+    -webkit-box-shadow: 3px 3px 6px #a9a9a9;
+    box-shadow: 3px 3px 6px 0 #a9a9a9;
 }
