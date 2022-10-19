@@ -22,6 +22,7 @@
     width: 9.4%;
     border: 8px groove CornflowerBlue;
     background-color: lightcyan;
+    text-decoration: none;
 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -42,6 +43,10 @@
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
+}
+
+.linkContact {
+    color: cornflowerblue;
 }
 
 .article {
