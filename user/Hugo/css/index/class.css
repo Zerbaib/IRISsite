@@ -6,7 +6,7 @@
 }
 
 .page {
-
+    background-color: gray;
 }
 
 .head {
@@ -14,7 +14,7 @@
 }
 
 .nav {
-
+    position: relative;
 }
 
 .btn {
@@ -23,6 +23,7 @@
     border: 8px groove CornflowerBlue;
     background-color: lightcyan;
     text-decoration: none;
+    margin-left: 15px;
 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -30,7 +31,7 @@
 }
 
 .main {
-
+    margin-left: 0px;
 }
 
 .box {
@@ -50,9 +51,9 @@
 }
 
 .article {
-
+    text-align: center;
 }
 
 .foot {
-
+    text-align: center;
 }
