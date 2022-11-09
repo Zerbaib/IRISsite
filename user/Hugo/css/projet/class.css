@@ -81,6 +81,10 @@
 }
 
 .linkContact {
+    color: black;
+}
+
+.linkContact:hover {
     color: cornflowerblue;
 }
 
