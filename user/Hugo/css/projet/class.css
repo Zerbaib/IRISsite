@@ -29,6 +29,15 @@
     border-radius: 6px;
 }
 
+.btn:hover {
+    font-size: 15px;
+    width: 9.4%;
+    border: 8px groove green;
+    background-color: lightcyan;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
 .main {
     margin-left: 0px;
 }
@@ -39,6 +48,7 @@
     background-color: #CCC;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
     display: inline-block;
 
     -webkit-border-radius: 6px;
