@@ -6,7 +6,7 @@
 }
 
 .page {
-    
+    background-color: gray;
 }
 
 .head {
@@ -30,7 +30,7 @@
 }
 
 .main {
-
+    margin-left: 0px;
 }
 
 .box1 {
@@ -90,5 +90,5 @@
 }
 
 .foot {
-
+    text-align: center;
 }
