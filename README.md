@@ -30,7 +30,7 @@ puis faire une pull request vers le code de base
 ## To do
 - [x] Page d'accueil
 - [x] Page de note
-- [ ] Page de contact
+- [x] Page de contact
 - [x] Lier les user avec les 3 premiere page
 - [ ] Beauter du site
 
