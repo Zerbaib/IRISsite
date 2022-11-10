@@ -36,6 +36,7 @@
     background-color: lightcyan;
     text-decoration: none;
     margin-left: 15px;
+    transition: 0.5s;
 }
 
 .main {
