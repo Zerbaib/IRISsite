@@ -34,23 +34,6 @@ puis faire une pull request vers le code de base
 - [x] Lier les user avec les 3 premiere page
 - [ ] Beauter du site
 
-- Hugo:
-- [ ] Home fini
-- [ ] Projet fini
-- [ ] Beauter du site
-
-- Lucas:
-- [ ] Home fini
-- [ ] Beauter du site
-
-- Patrick:
-- [ ] Home fini
-- [ ] Beauter du site
-
-- Matias:
-- [ ] Home fini
-- [ ] Beauter du site
-
 ## Made with
 
 _The software :_
