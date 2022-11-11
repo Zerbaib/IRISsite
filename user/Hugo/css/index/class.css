@@ -59,6 +59,8 @@
 
 .linkContact:hover {
     color: cornflowerblue;
+    transition: 0.5s;
+
 }
 
 .article {
