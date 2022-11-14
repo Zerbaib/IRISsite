@@ -37,8 +37,8 @@ puis faire une pull request vers le code de base
 ## Made with
 
 _The software :_
-* [Visual Studio](http://geany.org) - Text editor + allows me to run the project to test it.
-* [Visual Studio Code](http://geany.org) - Text editor.
+* [Visual Studio](https://visualstudio.microsoft.com/fr/) - Text editor + allows me to run the project to test it.
+* [Visual Studio Code](https://visualstudio.microsoft.com/fr/) - Text editor.
 
 ## Authors
 
