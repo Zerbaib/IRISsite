@@ -23,7 +23,7 @@
     border: 8px groove CornflowerBlue;
     background-color: lightcyan;
     text-decoration: none;
-    margin-left: 15px;
+    margin-left: auto;
 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -36,7 +36,6 @@
     border: 8px groove red;
     background-color: lightcyan;
     text-decoration: none;
-    margin-left: 15px;
     transition: 0.5s;
 }
 
