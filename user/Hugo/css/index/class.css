@@ -6,7 +6,7 @@
 }
 
 .page {
-
+    background-color: gray;
 }
 
 .head {
@@ -14,7 +14,7 @@
 }
 
 .nav {
-
+    position: relative;
 }
 
 .btn {
@@ -23,14 +23,24 @@
     border: 8px groove CornflowerBlue;
     background-color: lightcyan;
     text-decoration: none;
+    margin-left: 15px;
 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
 
-.main {
+.btn:hover {
+    font-size: 15px;
+    width: 9.4%;
+    border: 8px groove red;
+    background-color: lightcyan;
+    text-decoration: none;
+    transition: 0.5s;
+}
 
+.main {
+    margin-left: 0px;
 }
 
 .box {
@@ -39,20 +49,22 @@
     background-color: #CCC;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
 
-.linkContact {
+.linkContact:hover {
     color: cornflowerblue;
+    transition: 0.5s;
 }
 
 .article {
-
+    text-align: center;
 }
 
 .foot {
-
+    text-align: center;
 }

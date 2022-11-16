@@ -4,3 +4,33 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+.contact {
+    border: 3px solid black;
+    background-color: #CCC;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5px;
+
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+
+    -webkit-box-shadow: 3px 3px 6px #a9a9a9;
+    box-shadow: 3px 3px 6px 0 #a9a9a9;
+}
+
+.contact h2 {
+    padding: 5px;
+}
+
+.contact a:hover {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    transition: 0.5s;
+}
+
+.contact p {
+    padding: 2px;
+}

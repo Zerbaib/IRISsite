@@ -19,3 +19,7 @@
     -webkit-box-shadow: 3px 3px 6px #a9a9a9;
     box-shadow: 3px 3px 6px 0 #a9a9a9;
 }
+
+.LinkForFork:hover {
+    color: cornflowerblue;
+}
