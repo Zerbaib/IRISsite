@@ -1,5 +1,5 @@
 body {               
-	background-color:red;  
+	background-image: url("champ_de_cereale_ble_dur_0.jpg");  
 	
 }
 
@@ -8,7 +8,15 @@ body {
 
 	text-align: center; 
 	font-family: arial; 
-	text-shadow: 4px 4px 0px white; 
+	text-shadow: 4px 4px 0px black; 
 	font-size: 100px; 
+	color: red; 
+}
+
+.chapitre1 
+{
+	
+
+
 
 }
