@@ -23,6 +23,10 @@ nav {
     padding-left: 10px;
 }
 
+article {
+    display: inline-block;
+}
+
 footer {
     color: white;
     text-align: center;
