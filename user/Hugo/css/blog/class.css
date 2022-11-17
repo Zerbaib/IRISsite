@@ -19,3 +19,7 @@
     border: 8px groove CornflowerBlue;
     background-color: lightcyan;
 }
+
+.artcl {
+    display: inline-block;
+}
