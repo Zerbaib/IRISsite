@@ -15,6 +15,7 @@
 
 .nav {
     position: relative;
+    text-align: center;
 }
 
 .btn {
@@ -22,7 +23,7 @@
     width: 9.4%;
     border: 8px groove CornflowerBlue;
     background-color: lightcyan;
-    margin-left: 15px;
+    margin-left: 10px;
 
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
