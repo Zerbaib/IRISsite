@@ -6,14 +6,9 @@ background-color: rgb(61, 138, 238);
 }
 
 .square {
-
-   width: 500px;
-    height: 500px;
 border: 5px solid rgb(255, 136, 0);
 border-image: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
 border-image-slice: 1;
-
-
 }
 
 .banane {
