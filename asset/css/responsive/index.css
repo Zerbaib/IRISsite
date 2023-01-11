@@ -1,0 +1,50 @@
+@media (max-width: 1024px){
+    .article {
+        padding-top: 200px;
+    }
+}
+
+@media (max-width: 768px) {
+    .home {
+        padding-left: 200px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 300px;
+    }
+    .article {
+        display: block;
+        padding-top: 0px;
+        padding-right: auto;
+    }
+}
+
+@media (max-width: 425px) {
+    .home {
+        padding-left: 97px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 170px;
+    }
+}
+
+@media (max-width: 375px) {
+    .home {
+        padding-left: 80px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 160px;
+    }
+}
+
+@media (max-width: 320px) {
+    .home {
+        padding-left: 65px;
+        padding-top: 10px;
+    }
+    .card_pika {
+        width: 150px;
+    }
+}
