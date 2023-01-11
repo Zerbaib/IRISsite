@@ -12,10 +12,19 @@ background-color: rgb(61, 138, 238);
 border: 5px solid rgb(255, 136, 0);
 border-image: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
 border-image-slice: 1;
+
+
 }
 
 .banane {
 width: 250px;
 height: 250px;
-    position: absolute; left: 1400px;
+    position: absolute; left: 1350px;
+}
+
+
+.nice {
+    width: 200px;px;
+    height: 250px;
+    position: absolute; right: 600px;
 }
