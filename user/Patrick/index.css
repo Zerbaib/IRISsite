@@ -15,6 +15,7 @@ border-image-slice: 1;
 }
 
 .banane {
-width
+width: 250px;
+height: 250px;
     position: absolute; left: 1400px;
 }
