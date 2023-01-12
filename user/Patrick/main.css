@@ -1,0 +1,33 @@
+
+body {
+background-color: rgb(50, 131, 238);
+
+}
+
+
+
+.banane {
+width: 250px;
+height: 250px;
+    position: absolute; left: 1550px;
+}
+
+
+.nice {
+    width: 250px;
+    height: 300px;
+    position: absolute; right: 350px;
+}
+
+
+
+div {
+    color: red;
+    }
+
+    .textemilieu {
+        text-align: center;
+        font-size: 50px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: gold;
+    }
